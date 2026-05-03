@@ -91,8 +91,8 @@ Included:
 </p>
 
 <p align="center">
-  <img src="images/wordcloud_netflix.png" width="700"/>
-  <br><em>Netflix‑Style WordCloud</em>
+  <img src="images/text_analysis_full_pipeline.png" width="700"/>
+  <br><em>Netflix‑Style WordCloud (Cleaned Descriptions)</em>
 </p>
 
 <p align="center">
@@ -154,10 +154,10 @@ netflix-eda-nlp-analysis/
 # 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amirayman20" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/amirayman20" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
