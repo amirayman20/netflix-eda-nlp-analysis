@@ -149,6 +149,8 @@ netflix-eda-nlp-analysis/
 │
 └── README.md
 
+---
+
 # 📬 Connect With Me
 
 <p align="center">
