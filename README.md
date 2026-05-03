@@ -127,7 +127,6 @@ Included:
 
 # 📁 Project Structure | هيكل المشروع
 
-```text
 netflix-eda-nlp-analysis/
 │
 ├── data/
@@ -144,7 +143,7 @@ netflix-eda-nlp-analysis/
 │
 ├── images/
 │   ├── top_15_countries.png
-│   ├── wordcloud_netflix.png
+│   ├── text_analysis_full_pipeline.png
 │   └── top_15_bigrams_netflix.png
 │
 └── README.md
@@ -154,10 +153,11 @@ netflix-eda-nlp-analysis/
 # 📬 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/amirayman20" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/amirayman20" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
